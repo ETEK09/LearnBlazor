@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\",
+  "WorkspaceRootPath": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|c:\\users\\ericc\\onedrive\\desktop\\repos\\learnblazor\\learnblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|c:\\users\\ecaro\\desktop\\repos\\learnblazor\\learnblazor\\learnblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|solutionrelative:learnblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|c:\\users\\ericc\\onedrive\\desktop\\repos\\learnblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|c:\\users\\ecaro\\desktop\\repos\\learnblazor\\learnblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|c:\\users\\ericc\\onedrive\\desktop\\repos\\learnblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|c:\\users\\ecaro\\desktop\\repos\\learnblazor\\learnblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|c:\\users\\ericc\\onedrive\\desktop\\repos\\learnblazor\\components\\learnblazor\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|c:\\users\\ecaro\\desktop\\repos\\learnblazor\\learnblazor\\components\\learnblazor\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FD0FD21-9FE6-4BC2-9090-015C81B22D29}|LearnBlazor.csproj|solutionrelative:components\\learnblazor\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -26,85 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\Components\\_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\Components\\_Imports.razor",
               "RelativeToolTip": "Components\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T11:40:59.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T11:40:59.872Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BindProp.razor",
-              "DocumentMoniker": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\Components\\LearnBlazor\\BindProp.razor",
+              "DocumentMoniker": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\Components\\LearnBlazor\\BindProp.razor",
               "RelativeDocumentMoniker": "Components\\LearnBlazor\\BindProp.razor",
-              "ToolTip": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\Components\\LearnBlazor\\BindProp.razor",
+              "ToolTip": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\Components\\LearnBlazor\\BindProp.razor",
               "RelativeToolTip": "Components\\LearnBlazor\\BindProp.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T11:33:21.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T11:33:21.686Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T11:23:21.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T11:23:21.888Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LearnBlazor.csproj",
-              "DocumentMoniker": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\LearnBlazor.csproj",
+              "DocumentMoniker": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\LearnBlazor.csproj",
               "RelativeDocumentMoniker": "LearnBlazor.csproj",
-              "ToolTip": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\LearnBlazor.csproj",
+              "ToolTip": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\LearnBlazor.csproj",
               "RelativeToolTip": "LearnBlazor.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-28T14:01:08.452Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 51,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

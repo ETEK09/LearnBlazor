@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oU3GuXiXGOAD87AWB33OKqYOI/zlt0S5/iOk21jvOVs=",
+  "Hash": "MOpn4LlSlzlGHMz/MWRtMQMzu0xwbk1vQ+DcUyzanvA=",
   "Source": "LearnBlazor",
   "BasePath": "_content/LearnBlazor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LearnBlazor\\wwwroot",
       "Source": "LearnBlazor",
-      "ContentRoot": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\",
       "BasePath": "_content/LearnBlazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LearnBlazor.styles.css",
+      "Identity": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LearnBlazor.styles.css",
       "SourceId": "LearnBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/LearnBlazor",
       "RelativePath": "LearnBlazor.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LearnBlazor.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LearnBlazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LearnBlazor.bundle.scp.css",
+      "Identity": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LearnBlazor.bundle.scp.css",
       "SourceId": "LearnBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/LearnBlazor",
       "RelativePath": "LearnBlazor.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LearnBlazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LearnBlazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\app.css",
       "SourceId": "LearnBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\",
       "BasePath": "_content/LearnBlazor",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "LearnBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\",
       "BasePath": "_content/LearnBlazor",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "LearnBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\",
       "BasePath": "_content/LearnBlazor",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\favicon.png",
       "SourceId": "LearnBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\",
       "BasePath": "_content/LearnBlazor",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
