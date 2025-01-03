@@ -1,48 +1,25 @@
-﻿@page "/LearnBlazor/bindprop"
-
-<h3>Product - Data Bidning</h3>
-
-Name: @Product.Name <br />
-
-IsActive: @Product.IsActive <br />
-
-Price: @Product.Price <br />
-
-This product is: @(Product.IsActive?"Active":"Inactive") <br/>
-
-IsActive : <input type="checkbox" @bind="@Product.IsActive" /> <br />
-
-Input Price:
-<input type="number" @bind="@Product.Price" @bind:event="oninput">
-
-<br /> Product Properties:
-
-<select>
-    @foreach (var prop in Product.ProductProperties)
-    {   
-
-        <option value="@prop.Key">@prop.Value</option>  
-    
-    }
-</select>
+﻿@page "/LearnBlazor/BindProp"
 
 
+
+
+Data binding process establishes a connection between the UI and application.
+It separates the view logic from the business logic
+
+<h3>Product - Data Binding</h3>
+
+@Product.Id  <br />
+@Product.Name <br/>
+@Product.Price <br/>
+@Product.IsActive <br/>
 
 @code {
     Models.Product Product = new()
-    {
-            ID = 1,
-            Name = "Product 1",
+        {
+            Id = 1,
+            Name = "Great Things",
+            Price = 88,
             IsActive = true,
-            Price = 5,
-            ProductProperties = new List<Models.Product_Prop>()
-            {
-                new Models.Product_Prop{Id =1, Key="Color", Value="Red"},
-                new Models.Product_Prop{Id =2, Key="Size", Value="20oz"},
-                new Models.Product_Prop{Id =3, Key="Flazor", Value="Rose"},
-            
-            }
-
     };
 
 }

@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LearnBlazor.bundle.scp.css",
+      "Id": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LearnBlazor.bundle.scp.css",
       "PackagePath": "staticwebassets\\LearnBlazor.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\app.css",
+      "Id": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ecaro\\Desktop\\Repos\\LearnBlazor\\LearnBlazor\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\LearnBlazor\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
