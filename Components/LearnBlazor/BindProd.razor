@@ -1,0 +1,40 @@
+﻿@page "/LearnBlazor/BindProd"
+
+
+<h3>BindProd</h3>
+
+ID : @Product.ID <br />
+Name: @Product.Name <br/>
+Price: @Product.Price <br />
+
+Input Price: <input type="number" @bind-value="@Product.Price" @bind-value:event="oninput" />
+
+This product is: @(Product.IsActive?"IsActive":"Not Active") <br />
+
+IsActive: <input type="checkbox" @bind-value=@Product.IsActive /> <br />
+
+
+
+
+
+
+@code {
+    Models.Product Product = new()
+    {
+
+            ID = 1,
+            Name = "Gridning",
+            Price = 3526,
+            IsActive = true,
+            ProductProperties = new List<Models.Product_Prop>
+            {
+                new Models.Product_Prop{Id= 1, Key= "Color", Value= "Red"},
+                new Models.Product_Prop{Id= 2, Key= "Size", Value= "20oz"},
+                new Models.Product_Prop{Id= 3, Key= "Flazor", Value= "Road"},
+
+
+            }
+
+     };
+
+}
